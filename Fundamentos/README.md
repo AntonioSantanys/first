@@ -1,5 +1,4 @@
-#Módulo Fundamentos
+# Módulo Fundamentos
 
-##Git - GitHub -Internet
-
-Aqui contém as atividades do módulo de fundamentos da Trybe!
+## Git, GitHub e Internet
+Aqui contém as atividades do módulo de fundamentos, aqui aprendi sobre Git, GitHub e Internet
