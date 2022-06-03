@@ -1,4 +1,7 @@
-# Módulo Fundamentos
 
-## Git, GitHub e Internet
-Aqui contém as atividades do módulo de fundamentos, aqui aprendi sobre Git, GitHub e Internet
+# Blocos
+###### Bloco 2 - Git, GitHub e Internet.
+###### Bloco 3 - Introdução à HTML e CSS.
+###### Bloco 4 - Introdução à JavaScript e Lógica de programação.
+
+Aqui contém os blocos e atividades do módulo de **fundamentos do desenvolvimento web**.
