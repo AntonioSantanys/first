@@ -1,0 +1,1 @@
+## Neste dia contém exercícios sobre HTML, CSS, estrutura, posicionamento, agrupamento de tags e alinhamentos.
