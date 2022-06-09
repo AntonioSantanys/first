@@ -7,8 +7,23 @@ body {
 
 }
 
-h1, p {
+h1, p { 
 
  text-align: center;
+
+}
+
+#setorSite {
+
+ text-align: center;
+
+}
+
+
+#listaSite:hover {
+ 
+ color: blue;
+ background-color: rgb(192, 138, 138);
+ border-radius: 5px;
 
 }
