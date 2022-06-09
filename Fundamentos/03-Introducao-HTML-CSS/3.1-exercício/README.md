@@ -1,1 +1,1 @@
-## Realização do primeiro exercício de estrutura de página com HTML! ✔️
+## Realização do primeiro exercício de estrutura de página usando HTML! ✔️
