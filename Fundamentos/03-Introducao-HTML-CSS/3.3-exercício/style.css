@@ -16,5 +16,10 @@ font-family: Montserrat, sans-serif;
 .paragrafos {
 
  background-color: rgb(123, 121, 121);
-
+ width: 50%;
+ height: 200px;
+ overflow: auto;
+ border-width: 2px; /* Largura da borda */
+ border-style: dashed;
+ margin: 50px; /* Muda a margem da borda, porém faz parte da box-model
 }
