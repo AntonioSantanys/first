@@ -27,3 +27,10 @@ h1, p {
  border-radius: 5px;
 
 }
+
+#motivos {
+
+ list-style: none;
+ text-align: center;
+
+}
