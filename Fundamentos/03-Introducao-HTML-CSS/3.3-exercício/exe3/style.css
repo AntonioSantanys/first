@@ -76,6 +76,6 @@ div:nth-last-of-type(5) > h3 {
 
 div:nth-child(odd) { 
 
-   font-family: italic;
+   font-style: italic;
 
 }
