@@ -22,3 +22,44 @@ h1, h3 {
 
 }
 
+h1 em {
+
+   width: 500px;
+   font-size: 40px
+
+}
+
+
+
+li { 
+
+   font-size: 20px;
+
+}
+
+li em { 
+
+   font-weight: 700;
+
+}
+
+.linguagem {
+
+   color: blue;
+
+}
+
+.rosa {
+
+   background-color: pink;
+   width: 50px;
+
+}
+
+.sitesAliados:hover {
+
+  color: orange;
+  font-weight: 700;
+
+}
+
