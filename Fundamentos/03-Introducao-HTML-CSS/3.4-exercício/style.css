@@ -1,4 +1,4 @@
-*  {
+* {
 
   margin: 0;
   padding: 0;
@@ -9,7 +9,7 @@ body {
 
   font-family: sans-serif;
   background-color: rgb(205, 205, 205);
- 
+
 
 }
 
@@ -23,7 +23,7 @@ a {
 
 .cabeçalho {
 
-  background-image:url(https://cdn.phenompeople.com/CareerConnectResources/prod/PHILUS/images/profile-blue-1553093239267.png);
+  background-image: url(https://cdn.phenompeople.com/CareerConnectResources/prod/PHILUS/images/profile-blue-1553093239267.png);
 
 
 }
@@ -47,10 +47,10 @@ a {
 }
 
 .nav li {
-  
+
   display: inline;
   padding: 20px;
-  margin-left: 18%  ;
+  margin-left: 18%;
 
 }
 
@@ -61,5 +61,41 @@ a {
 
 }
 
+.tituloprincipal h2 {
 
+  border: 5px solid red;
+  margin-left: 5%;
+  font-size: 30px;
+  position: absolute;
+  bottom: 40%;
 
+}
+
+.cientifico {
+
+border: 5px solid blue;
+
+}
+
+.cientifico img {
+
+  margin-left: 75%;
+  margin-top: 5%;
+
+}
+
+.cientifico aside {
+
+ margin-left: 75%;
+ 
+
+}
+
+aside li {
+  
+  border: 2px solid rgb(224, 224, 224);
+  list-style: none;
+  padding: 5px;
+  font-weight: 600;
+
+}
