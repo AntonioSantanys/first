@@ -130,3 +130,26 @@ if (num4 % 1 || num5 % 1 || num6 % 1) {
 
     console.log(false);
 }
+
+// 10- 
+
+const custo = 45;
+const valor = 60;
+let imposto = custo + 6;
+let quantidade = 1000
+let valorCustoTotal = valor + imposto;
+let lucro = valor - valorCustoTotal;
+let lucroTotal = lucro * quantidade;
+
+if (lucroTotal > 0) {
+
+
+    console.log(lucroTotal);
+} else {
+
+    console.log("Error, não obiteve lucro.");
+}
+
+
+
+
