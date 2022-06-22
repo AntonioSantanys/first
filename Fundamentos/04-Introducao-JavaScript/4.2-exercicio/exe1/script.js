@@ -1,4 +1,11 @@
+// Exercicio 1
+
 let menu = ['Água', 'Refrigerante', 'Picanha', 'Arroz'];
-let services;
+let services = menu;
+
+
 
 console.log(services);
+
+// Exercicio 2
+
