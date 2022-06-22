@@ -6,6 +6,3 @@ let services = menu;
 
 
 console.log(services);
-
-// Exercicio 2
-
