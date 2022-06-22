@@ -116,3 +116,17 @@ if (num1 % 2 || num2 % 2 || num3 % 2) {
 
     console.log(false);
 }
+
+// 9- 
+
+const num4 = 10;
+const num5 = 22;
+const num6 = 12;
+
+if (num4 % 1 || num5 % 1 || num6 % 1) {
+
+    console.log(true);
+} else {
+
+    console.log(false);
+}
