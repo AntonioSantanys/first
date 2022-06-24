@@ -1,6 +1,6 @@
 // Usando o objeto abaixo, faça os exercícios a seguir:
 
-//3 - Faça um for/in que mostre todas as chaves do objeto.
+//4 - Faça um novo for/in, mas agora mostre todos os valores das chaves do objeto. 
 
 let info = { 
   personagem: 'Margarida',
@@ -11,5 +11,5 @@ let info = {
 
 for(key in info) {
  
-   console.log(key)
+   console.log(info[key])
 }
