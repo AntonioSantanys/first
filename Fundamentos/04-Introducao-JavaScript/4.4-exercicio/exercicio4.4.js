@@ -1,7 +1,6 @@
 // Usando o objeto abaixo, faça os exercícios a seguir:
 
-//2 - Insira no objeto uma nova propriedade com o nome de chave 'recorrente' 
-//e o valor 'Sim' e, em seguida, imprima o objeto no console. Valor esperado no console:
+//3 - Faça um for/in que mostre todas as chaves do objeto.
 
 let info = { 
   personagem: 'Margarida',
@@ -10,5 +9,7 @@ let info = {
   recorrente: 'sim'  
 };
 
-
-console.log(info)
+for(key in info) {
+ 
+   console.log(key)
+}
