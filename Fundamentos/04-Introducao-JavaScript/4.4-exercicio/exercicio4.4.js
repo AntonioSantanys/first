@@ -36,9 +36,7 @@ let leitor = {
     ],
   };
 
-// 7 - Adicione um novo livro favorito na chave livrosFavoritos, que é um array. 
-// Atribua a esta chave um objeto:
-
+// Código abaixo irá adicionar um novo objeto no array do objeto "livrosFavoritos"
 let livro2 = leitor.livrosFavoritos.push(
 
     {
@@ -50,4 +48,7 @@ let livro2 = leitor.livrosFavoritos.push(
 
 )
 
-console.log(leitor.livrosFavoritos[1].titulo);
+// 8 - Acesse as chaves nome e livrosFavoritos e 
+// faça um console.log no seguinte formato: "Julia tem 2 livros favoritos".
+
+console.log(`${leitor.nome} tem ${leitor.livrosFavoritos.length} livros favoritos`)
