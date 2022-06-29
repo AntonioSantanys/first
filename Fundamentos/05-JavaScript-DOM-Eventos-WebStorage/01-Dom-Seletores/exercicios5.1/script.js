@@ -14,7 +14,7 @@
 let paragrafo = document.getElementsByTagName('p')[1];
 function paragraph(let) {
 
-    paragrafo.innerText = 'Sou fyoas'
+    paragrafo.innerText = 'Sou Antônio'
     return paragrafo;
 }
 
