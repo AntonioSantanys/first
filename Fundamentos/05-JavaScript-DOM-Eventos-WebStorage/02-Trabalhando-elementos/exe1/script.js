@@ -14,3 +14,21 @@ elementoPrimeiroFilhoDoFilho.innerText = 'Texto do elemento "primeiroFilhoDoFilh
 
 // Q4 Acesse o primeiroFilho a partir de pai.
 
+console.log(document.getElementById('pai').firstElementChild);
+
+// Q5 Agora acesse o primeiroFilho a partir de elementoOndeVoceEsta.
+
+console.log(elementoOndeEsta.firstElementChild);
+
+// Q6 Agora acesse o texto Atenção! a partir de elementoOndeVoceEsta.
+
+console.log(elementoOndeEsta.nextSibling);
+
+// Q7 Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta.
+
+console.log(elementoOndeEsta.nextSibling.nextSibling);
+
+// Q8 Agora acesse o terceiroFilho a partir de pai.
+
+let terceiroFilhoPai = document.getElementById('pai');
+console.log(terceiroFilhoPai.lastElementChild.previousElementSibling);
