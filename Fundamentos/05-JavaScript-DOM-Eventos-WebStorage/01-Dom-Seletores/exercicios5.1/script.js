@@ -51,14 +51,11 @@ function tituloPrincipal(let) {
 tituloPrincipal(tituloP)
 
 
+// Deixando a primeira frase maiúscula
 let textoGrande = document.getElementsByTagName('p')[0];
 
 function maiuscula(let) {
-    
-    for (let i of let){
-     textoGrande.innerText = i.toUpperCase();
-    }
-    return textoGrande;
+    textoGrande.innerHTML = textoGrande.innerHTML.toUpperCase(); 
 }
 
 maiuscula(textoGrande)
