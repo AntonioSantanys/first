@@ -45,7 +45,6 @@ for(let i = 0; i <= 2; i += 1){
    let elementH3 = document.createElement('h3');
    elementH3.innerHTML = 'Títulos aqui';
    elementMain.appendChild(elementH3);
-
 };
 
 
