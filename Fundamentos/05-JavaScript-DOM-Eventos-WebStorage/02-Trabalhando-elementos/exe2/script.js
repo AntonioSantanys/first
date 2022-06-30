@@ -1,13 +1,24 @@
 let pai = document.getElementById('pai');
+let irmaoNovoElementoOndeVoceEsta = document.createElement('section');
+pai.appendChild(irmaoNovoElementoOndeVoceEsta);
 
-for (let i = pai.childNodes.length - 1; i >= 0; i -= 1) {
-    let filhoAtual = pai.childNodes[i];
-    if (filhoAtual.id !== 'elementoOndeVoceEsta') {
+console.log(pai);
 
-        filhoAtual.remove();
-    }
+let elementOndeVoceEsta = document.getElementById('elementoOndeVoceEsta');
+let filhoElementOndeVoceEsta = document.createElement('section');
+elementOndeVoceEsta.appendChild(filhoElementOndeVoceEsta);
 
-}
+console.log(elementOndeVoceEsta);
 
-let segundoEUltimoFilhoDoFilho = document.getElementById('segundoEUltimoFilhoDoFilho');
-segundoEUltimoFilhoDoFilho.remove();
+
+let elementPrimeiroFilhoDoFilho = document.getElementById('primeiroFilhoDoFilho');
+let filhoPrimeiroFilhoDoFilho = document.createElement('section');
+elementPrimeiroFilhoDoFilho.appendChild(filhoPrimeiroFilhoDoFilho);
+
+console.log(elementPrimeiroFilhoDoFilho);
+
+
+let elementTerceiroFilho = filhoPrimeiroFilhoDoFilho.parentElement.parentElement.parentElement.lastChild.previousElementSibling.previousElementSibling;
+
+
+console.log(elementTerceiroFilho)
