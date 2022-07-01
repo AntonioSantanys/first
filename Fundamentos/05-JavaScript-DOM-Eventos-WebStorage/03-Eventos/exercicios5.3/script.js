@@ -43,8 +43,18 @@ function createDaysOfTheMonth() {
     }
 
     listDayDecember.className = 'day';
-
-
 }
 
 createDaysOfTheMonth();
+
+
+function botaoHoliday(string){
+    let secaoBotao = document.querySelector('.buttons-container');
+    let buttonHoliday = document.createElement('button');
+    buttonHoliday.id = 'btn-holiday';
+    buttonHoliday.innerText = 'Mostrar Feriados';
+    secaoBotao.appendChild(buttonHoliday);
+}
+
+
+botaoHoliday();
