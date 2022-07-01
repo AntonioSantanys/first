@@ -19,27 +19,27 @@ function createDaysOfTheMonth() {
     let decemberDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
     let listDayDecember = document.getElementById('days');
 
-    for (let index = 0; index < decemberDaysList.length; index += 1){
+    for (let index = 0; index < decemberDaysList.length; index += 1) {
 
         let daysNumbers = decemberDaysList[index];
         let dayNumberElement = document.createElement('li');
         dayNumberElement.innerText = daysNumbers;
         listDayDecember.appendChild(dayNumberElement);
-       
-        if(daysNumbers == 24 || daysNumbers == 31){
-             dayNumberElement.className = 'day holiday'
-             listDayDecember.appendChild(dayNumberElement);
-        } else if (daysNumbers == 4 || daysNumbers == 11 || daysNumbers == 18){
-             dayNumberElement.className = 'day friday';
-             listDayDecember.appendChild(dayNumberElement);
-        }else if (daysNumbers == 25){
-             dayNumberElement.className = 'day holiday friday';
+
+        if (daysNumbers == 24 || daysNumbers == 31) {
+            dayNumberElement.className = 'day holiday'
+            listDayDecember.appendChild(dayNumberElement);
+        } else if (daysNumbers == 4 || daysNumbers == 11 || daysNumbers == 18) {
+            dayNumberElement.className = 'day friday';
+            listDayDecember.appendChild(dayNumberElement);
+        } else if (daysNumbers == 25) {
+            dayNumberElement.className = 'day holiday friday';
         } else {
-             dayNumberElement.className = 'day';
-             listDayDecember.appendChild(dayNumberElement);
+            dayNumberElement.className = 'day';
+            listDayDecember.appendChild(dayNumberElement);
 
         }
-        
+
     }
 
     listDayDecember.className = 'day';
@@ -48,13 +48,36 @@ function createDaysOfTheMonth() {
 createDaysOfTheMonth();
 
 
-function botaoHoliday(string){
+function botaoHoliday(string) {
     let secaoBotao = document.querySelector('.buttons-container');
     let buttonHoliday = document.createElement('button');
     buttonHoliday.id = 'btn-holiday';
     buttonHoliday.innerText = 'Mostrar Feriados';
     secaoBotao.appendChild(buttonHoliday);
 }
-
-
 botaoHoliday();
+
+function mostrarHoliday() {
+    let pegarBotaoHoliday = document.querySelector('#btn-holiday');
+    let pegarHoliday = document.getElementsByClassName('holiday');
+    let backgroundColor = 'rgb(238,238,238)';
+    let setNewColor = 'white';
+
+    pegarBotaoHoliday.addEventListener('click', function () {
+
+        for (let index = 0; index < pegarHoliday.length; index += 1) {
+
+            if (pegarHoliday[index].style.backgroundColor === setNewColor) {
+                pegarHoliday[index].style.backgroundColor = backgroundColor;
+
+            } else {
+                pegarHoliday[index].style.backgroundColor = setNewColor;
+
+            }
+        }
+
+    });
+}
+
+
+mostrarHoliday();
