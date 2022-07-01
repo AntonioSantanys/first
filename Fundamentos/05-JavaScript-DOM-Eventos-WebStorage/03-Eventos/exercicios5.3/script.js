@@ -61,7 +61,7 @@ function mostrarHoliday() {
     let pegarBotaoHoliday = document.querySelector('#btn-holiday');
     let pegarHoliday = document.getElementsByClassName('holiday');
     let backgroundColor = 'rgb(238,238,238)';
-    let setNewColor = 'white';
+    let setNewColor = 'yellow';
 
     pegarBotaoHoliday.addEventListener('click', function () {
 
@@ -72,12 +72,10 @@ function mostrarHoliday() {
 
             } else {
                 pegarHoliday[index].style.backgroundColor = setNewColor;
-
             }
         }
 
     });
 }
-
 
 mostrarHoliday();
