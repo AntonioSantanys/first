@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+
+<body>
+
+    <h1>Formulário</h1>
+    <form action="" method="get" enctype="multipart/form-data">
+        <label for="input-name">Digite seu nome:</label>
+        <input type="text" name='nome' id='input-name' required placeholder="Exemplo: Antônio">
+        <br><br>
+        <label for="input-password">Digite sua senha:</label>
+        <input type="password" name="password" id="input-password" required placeholder="Senha">
+        <button type="submit">Enviar</button>
+        <br><br>
+        <label for="input-image">Envie seu currículo</label>
+        <input type="file" name="" id="input-image">
+        <br><br>
+        <textarea name="" id="" cols="30" rows="5"></textarea>
+        <button type="submit">Enviar</button>
+        <br><br>
+        <input type="checkbox" name="sport" id="sport-1" value="fut" checked>Futebol
+        <input type="checkbox" name="sport" id="sport-2" value="vol">Vôlei
+        <input type="checkbox" name="sport" id="sport-3" value="bas">Basquete
+        <input type="checkbox" name="sport" id="sport-3" value="ten">Tênis 
+        <br><br>
+        <label for="jogo1"><input type="radio" name="games" id="jogo1">League of legends</label>
+        <label for="jogo2"><input type="radio" name="games" id="jogo2">Counter Strike</label>
+        <label for="jogo3"><input type="radio" name="games" id="jogo3">God Of War</label>
+        <br><br><br>
+        <select name="estados" id="drop-down-estado">
+        <option value="sp">São Paulo</option>
+        <option value="rj">Rio De Janeiro</option>
+        <option value="mg">Minas Gerais</option>
+        <option value="pi">Piauí</option>
+        </select>
+        
+
+    </form>
+
+
+</body>
+
+</html>
