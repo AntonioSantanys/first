@@ -31,3 +31,10 @@
     justify-content: space-around;
     align-items: center; 
 }
+
+.description {
+
+    display: flex;
+    justify-content: center;
+}
+
