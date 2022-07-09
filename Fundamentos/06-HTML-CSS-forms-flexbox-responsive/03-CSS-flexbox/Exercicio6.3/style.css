@@ -29,7 +29,7 @@
     color: white;
     display: flex;
     justify-content: space-around;
-    align-items: center; 
+    align-items: center;
 }
 
 .description {
@@ -38,3 +38,24 @@
     justify-content: center;
 }
 
+.languages img {
+
+    width: 150px;
+}
+
+
+.languages {
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content:space-around;
+    align-content: center;
+    height: 500px;
+}
+
+.footer-links {
+
+    display: flex;
+    justify-content: center;
+}
