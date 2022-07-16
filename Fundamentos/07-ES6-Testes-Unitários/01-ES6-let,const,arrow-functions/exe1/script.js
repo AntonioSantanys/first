@@ -1,8 +1,8 @@
 const testingScope = (boolean) => {
     if ( boolean === true) {
-        let ifScope = 'Não devo ser utilizada fora do meu escopo (if)';
-        ifScope = ifScope + ' ótimo, fui utilizada no escopo !';
-        console.log(ifScope);
+        let ifScope = `Não devo ser utilizada fora do meu escopo (if)`;
+        // ifScope = `ótimo, fui utilizada no escopo !`;
+        console.log(`${ifScope}\nÓtimo fui utilizado no meu escopo!`);
     } else {
         let elseScope = 'Não devo ser utilizada fora meu escopo (else)';
         console.log(elseScope);
