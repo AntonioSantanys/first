@@ -6,11 +6,6 @@ if(typeof a !== 'number' || typeof b !== 'number') {
 return a + b;
 }
 
-
 console.log(sum(2, 4));
-
-
-
-
 
 module.exports = sum;

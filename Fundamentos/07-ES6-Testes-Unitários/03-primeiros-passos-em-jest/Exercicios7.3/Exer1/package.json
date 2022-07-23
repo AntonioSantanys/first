@@ -1,8 +1,8 @@
 {
-  "name": "03-primeiros-passos-em-jest",
+  "name": "exer1",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "sum.js",
   "scripts": {
     "test": "jest"
   },
