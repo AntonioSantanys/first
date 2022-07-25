@@ -45,4 +45,4 @@ let aprovedPeoples = studentNotes.filter((element) => element.nota >= 70);
 console.log('Aprovados:', aprovedPeoples);
 
 let reprovedPeoples = studentNotes.filter((element) => !(element.nota >= 70));
-console.log('Reprovados:', reprovedmPeoples);
+console.log('Reprovados:', reprovedPeoples);
