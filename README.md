@@ -103,9 +103,10 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Seção 6: Testes em React
 
-- [x] 15-1: _Testando React com a React Testing Library_
-- [x] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [x] 15-3: _[Projeto - Testes em React]()_
+- [x] 15-1: _RTL - Primeiros passos_
+- [x] 15-2: _RTL - Mocks e Inputs_
+- [x] 15-3: _RTL - Testando React Router_
+- [x] 15-4: _[Projeto - Testes em React](https://github.com/tryber/sd-024-b-project-react-testing-library/pull/111)_
 
 ##### Seção 7: Introdução ao Redux
 
@@ -114,22 +115,22 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 16-3: _React com Redux - Prática_
 - [x] 16-4: _React com Redux - Parte 2_
 - [x] 16-5: _Testes síncronos com React-Redux_
-- [x] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [x] 16-6: _[Projeto - Trybe Wallet](https://github.com/tryber/sd-024-b-project-trybewallet/pull/77)_
 
 ##### Seção 8: Projeto React
 
-- [x] 17-1: _[Projeto - Jogo de Trivia]()_
+- [x] 17-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-024-b-project-trivia-react-redux/commits/main-group-17)_
 
 ##### Seção 9: React & Context API
 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-024-b-project-starwars-planets-search/pull/55)_
 
 ##### Seção 10: Projeto Final de Front-end
 
-- [x] 19-1: _[Projeto - App de Receitas]()_
+- [x] 19-1: _[Projeto - App de Receitas](https://github.com/tryber/sd-024-b-project-recipes-app/commits/main-group-22)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
