@@ -78,44 +78,37 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 9-3: _Async, await e testes assíncronos_
 - [x] 9-4: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-024-b-project-shopping-cart/pull/112)_
 
-##### Seção 2: Jest
-
-- [x] 10-1: _Primeiros passos no Jest_
-- [x] 10-2: _Jest - Testes Assíncronos_
-- [x] 10-3: _Jest - Simulando comportamentos_
-- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
-
-##### Seção 3: Introdução - React
+##### Seção 2: Introdução - React
 
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _Componentes React_
-- [x] 11-3: _[Projeto - Movie Cards Library]()_
+- [x] 11-3: _[Projeto - Solar System](https://github.com/tryber/sd-024-b-project-solar-system/pull/131)_
 
-##### Seção 4: React
+##### Seção 3: React
 
 - [x] 12-1: _Components com estado_
 - [x] 12-2: _Eventos e formulários no React_
 - [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
-##### Seção 5: React
+##### Seção 4: React
 
 - [x] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
 - [x] 13-2: _Ciclo de vida de componentes em React_
 - [x] 13-3: _React Router_
 - [x] 13-4: _[Projeto - Movie Cards Library CRUD]()_
 
-##### Seção 6: Metodologias Ágeis
+##### Seção 5: Metodologias Ágeis
 
 - [x] 14-1: _Metodologias Ágeis_
 - [x] 14-2: _[Projeto - Frontend Online Store]()_
 
-##### Seção 7: Testes em React
+##### Seção 6: Testes em React
 
 - [x] 15-1: _Testando React com a React Testing Library_
 - [x] 15-2: _Testando React com a React Testing Library - Parte 2_
 - [x] 15-3: _[Projeto - Testes em React]()_
 
-##### Seção 8: Introdução ao Redux
+##### Seção 7: Introdução ao Redux
 
 - [x] 16-1: _Introdução ao Redux_
 - [x] 16-2: _React com Redux - Parte 1_
@@ -124,18 +117,18 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 16-5: _Testes síncronos com React-Redux_
 - [x] 16-6: _[Projeto - Tabela com filtros de dados]()_
 
-##### Seção 9: Projeto React
+##### Seção 8: Projeto React
 
 - [x] 17-1: _[Projeto - Jogo de Trivia]()_
 
-##### Seção 10: React & Context API
+##### Seção 9: React & Context API
 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_
 - [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Seção 11: Projeto Final de Front-end
+##### Seção 10: Projeto Final de Front-end
 
 - [x] 19-1: _[Projeto - App de Receitas]()_
 
