@@ -86,16 +86,15 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Seção 3: React
 
-- [x] 12-1: _Components com estado_
-- [x] 12-2: _Eventos e formulários no React_
-- [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 12-1: _Components com estados e eventos_
+- [x] 12-2: _Formulários no React_
+- [x] 12-3: _[Projeto - Tryunfo](https://github.com/tryber/sd-024-b-project-tryunfo/pull/140)_
 
 ##### Seção 4: React
 
-- [x] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [x] 13-2: _Ciclo de vida de componentes em React_
-- [x] 13-3: _React Router_
-- [x] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-1: _Ciclo de vida de componentes em React_
+- [x] 13-2: _React Router_
+- [x] 13-4: _[Projeto - Trybetunes](https://github.com/tryber/sd-t24-b-project-trybetunes/pull/16)_
 
 ##### Seção 5: Metodologias Ágeis
 
