@@ -99,7 +99,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 ##### Seção 5: Metodologias Ágeis
 
 - [x] 14-1: _Metodologias Ágeis_
-- [x] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 14-2: _[Projeto - Frontend Online Store](https://github.com/tryber/sd-t24-b-project-frontend-online-store/pull/69)_
 
 ##### Seção 6: Testes em React
 
