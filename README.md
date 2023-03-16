@@ -73,132 +73,145 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Seção 1: Assincronicidade & Callbacks
 
-- [x] 9-1: _JavaScript Assíncrono e Callbacks_
-- [x] 9-2: _JavaScript Promises_
-- [x] 9-3: _Async, await e testes assíncronos_
-- [x] 9-4: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-024-b-project-shopping-cart/pull/112)_
+- [x] 1-1: _JavaScript Assíncrono e Callbacks_
+- [x] 1-2: _JavaScript Promises_
+- [x] 1-3: _Async, await e testes assíncronos_
+- [x] 1-4: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-024-b-project-shopping-cart/pull/112)_
 
 ##### Seção 2: Introdução - React
 
-- [x] 11-1: _'Hello, world!' no React!_
-- [x] 11-2: _Componentes React_
-- [x] 11-3: _[Projeto - Solar System](https://github.com/tryber/sd-024-b-project-solar-system/pull/131)_
+- [x] 2-1: _'Hello, world!' no React!_
+- [x] 2-2: _Componentes React_
+- [x] 2-3: _[Projeto - Solar System](https://github.com/tryber/sd-024-b-project-solar-system/pull/131)_
 
 ##### Seção 3: React
 
-- [x] 12-1: _Components com estados e eventos_
-- [x] 12-2: _Formulários no React_
-- [x] 12-3: _[Projeto - Tryunfo](https://github.com/tryber/sd-024-b-project-tryunfo/pull/140)_
+- [x] 3-1: _Components com estados e eventos_
+- [x] 3-2: _Formulários no React_
+- [x] 3-3: _[Projeto - Tryunfo](https://github.com/tryber/sd-024-b-project-tryunfo/pull/140)_
 
 ##### Seção 4: React
 
-- [x] 13-1: _Ciclo de vida de componentes em React_
-- [x] 13-2: _React Router_
-- [x] 13-4: _[Projeto - Trybetunes](https://github.com/tryber/sd-t24-b-project-trybetunes/pull/16)_
+- [x] 4-1: _Ciclo de vida de componentes em React_
+- [x] 4-2: _React Router_
+- [x] 4-4: _[Projeto - Trybetunes](https://github.com/tryber/sd-t24-b-project-trybetunes/pull/16)_
 
 ##### Seção 5: Metodologias Ágeis
 
-- [x] 14-1: _Metodologias Ágeis_
-- [x] 14-2: _[Projeto - Frontend Online Store](https://github.com/tryber/sd-t24-b-project-frontend-online-store/pull/69)_
+- [x] 5-1: _Metodologias Ágeis_
+- [x] 5-2: _[Projeto - Frontend Online Store](https://github.com/tryber/sd-t24-b-project-frontend-online-store/pull/69)_
 
 ##### Seção 6: Testes em React
 
-- [x] 15-1: _RTL - Primeiros passos_
-- [x] 15-2: _RTL - Mocks e Inputs_
-- [x] 15-3: _RTL - Testando React Router_
-- [x] 15-4: _[Projeto - Testes em React](https://github.com/tryber/sd-024-b-project-react-testing-library/pull/111)_
+- [x] 6-1: _RTL - Primeiros passos_
+- [x] 6-2: _RTL - Mocks e Inputs_
+- [x] 6-3: _RTL - Testando React Router_
+- [x] 6-4: _[Projeto - Testes em React](https://github.com/tryber/sd-024-b-project-react-testing-library/pull/111)_
 
 ##### Seção 7: Introdução ao Redux
 
-- [x] 16-1: _Introdução ao Redux_
-- [x] 16-2: _React com Redux - Parte 1_
-- [x] 16-3: _React com Redux - Prática_
-- [x] 16-4: _React com Redux - Parte 2_
-- [x] 16-5: _Testes síncronos com React-Redux_
-- [x] 16-6: _[Projeto - Trybe Wallet](https://github.com/tryber/sd-024-b-project-trybewallet/pull/77)_
+- [x] 7-1: _Introdução ao Redux_
+- [x] 7-2: _React com Redux - Parte 1_
+- [x] 7-3: _React com Redux - Prática_
+- [x] 7-4: _React com Redux - Parte 2_
+- [x] 7-5: _Testes síncronos com React-Redux_
+- [x] 7-6: _[Projeto - Trybe Wallet](https://github.com/AntonioSsantana/project_trybewallet)_
 
 ##### Seção 8: Projeto React
 
-- [x] 17-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-024-b-project-trivia-react-redux/commits/main-group-17)_
+- [x] 8-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-024-b-project-trivia-react-redux/commits/main-group-17)_
 
 ##### Seção 9: React & Context API
 
-- [x] 18-1: _Context API do React_
-- [x] 18-2: _React Hooks - useState e useContext_
-- [x] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-024-b-project-starwars-planets-search/pull/55)_
+- [x] 9-1: _Context API do React_
+- [x] 9-2: _React Hooks - useState e useContext_
+- [x] 9-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/AntonioSsantana/project-starwars-planets)_
 
 ##### Seção 10: Projeto Final de Front-end
 
-- [x] 19-1: _[Projeto - App de Receitas](https://github.com/tryber/sd-024-b-project-recipes-app/commits/main-group-22)_
+- [x] 10-1: _[Projeto - App de Receitas](https://github.com/tryber/sd-024-b-project-recipes-app/commits/main-group-22)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### Seção 1: Docker - Utilizando Docker
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [x] 1-1: _Utilizando Containers_
+- [x] 1-2: _Manipulando Imagens_
+- [x] 1-3: _Orquestrando Containers com Docker Compose_
+- [x] 1-4: _[Projeto - Docker Todo-List]()_
 
-##### Bloco 21: Bancos de dados relacionais
+##### Seção 2: Introdução a SQL
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [x] 2-1: _Banco de dados SQL_
+- [x] 2-2: _Encontrando dados em um banco de dados_
+- [x] 2-3: _Filtrando dados de forma específica_
+- [x] 2-4: _Manipulando tabelas_
+- [x] 2-5: _[Projeto - All For One]()_
 
-##### Bloco 22: Bancos de dados relacionais
+##### Seção 3: Funções SQL, JOINs e Normalização
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [x] 3-1: _Funções mais usadas no SQL_
+- [x] 3-2: _Descomplicando JOINs_
+- [x] 3-3: _Transformando ideias em um modelo de banco de dados_
+- [x] 3-4: _[Projeto - One For All]()_
 
-##### Bloco 23: Introdução - NoSQL
+##### Seção 4: Introdução ao Desenvolvimento Web com Node.js
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [x] 4-1: _Node.js: Runtime Assíncrono_
+- [x] 4-2: _Node.js: API REST com Express_
+- [x] 4-2: _Node.js: Testes de Integração_
+- [x] 4-3: _Node.js: Express e Middlewares_
+- [x] 4-3: _Node.js: Express e mySQL_
+- [x] 4-4: _[Projeto - Talker Manager]()_
 
-##### Bloco 24: Updates
+##### Seção 5: Arquitetura de Software: Model, Service e Controller
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [x] 5-1: _Camada Model_
+- [x] 5-2: _Camada Service_
+- [x] 5-3: _Camada Controller_
+- [x] 5-4: _[Projeto - Store Manager]()_
 
-##### Bloco 25: Aggregation Framework
+##### Seção 6: Node.js: ORM e Autenticação
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [x] 6-1: _ORM: Interface da aplicação com o banco de dados_
+- [x] 6-2: _ORM: Associations 1:1 e 1:N_
+- [x] 6-3: _ORM: Associations N:N e Transactions_
+- [x] 6-4: _JWT: JSON Web Token_
+- [x] 6-5: _[Projeto - Blogs API]()_
 
-##### Bloco 26: Intro - NodeJS
+##### Seção 7: Masterclass: Implantação de Aplicações na Nuvem
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [x] 7-1: _Infraestrutura: Deploy com Railway_
 
-##### Bloco 27: NodeJS
+##### Seção 8: Introdução a TypeScript
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+- [x] 8-1: _Introdução ao TypeScript_
+- [x] 8-2: _Tipagem Estática e Generics_
+- [x] 8-3: _Express com TypeScript_
+- [x] 8-4: _[Projeto - Trybesmith]()_
 
-##### Bloco 28: NodeJS
+##### Seção 9: Programação Orientada a Objetos e SOLID
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [x] 9-1: _Introdução à Orientação a Objetos_
+- [x] 9-2: _Herança e Composição_
+- [x] 9-3: _Polimorfismo_
+- [x] 9-4: _SOLID: Princípios S, O e D_
+- [x] 9-5: _SOLID: Princípios L e I_  
+- [x] 9-6: _[Projeto - Trybers and Dragons]()_
 
-##### Bloco 29: NodeJS
+##### Seção 10: Projeto - Trybe Futebol Clube
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+- [x] 10-1: _[Projeto - Trybe Futebol Clube]()_
+
+##### Seção 11: Introdução ao MongoDB
+
+- [x] 11-1: _MongoDB: Introdução_
+- [x] 11-2: _Filter Operators_
+- [x] 11-3: _Operadores de consulta_
+- [x] 11-4: _Updates Simples_
+- [x] 11-5: _Updates complexos: Arrays_
+- [x] 11-6: _[Projeto - Commerce]()_
 
 ##### Bloco 30: Introdução - Deploy
 
