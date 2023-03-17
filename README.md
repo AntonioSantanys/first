@@ -119,7 +119,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Seção 8: Projeto React
 
-- [x] 8-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-024-b-project-trivia-react-redux/commits/main-group-17)_
+- [x] 8-1: _[Projeto - Jogo de Trivia](https://github.com/AntonioSsantana/project-trivia)_
 
 ##### Seção 9: React & Context API
 
@@ -139,7 +139,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 1-1: _Utilizando Containers_
 - [x] 1-2: _Manipulando Imagens_
 - [x] 1-3: _Orquestrando Containers com Docker Compose_
-- [x] 1-4: _[Projeto - Docker Todo-List]()_
+- [x] 1-4: _[Projeto - Docker Todo-List](https://github.com/AntonioSsantana/project-docker-todoList)_
 
 ##### Seção 2: Introdução a SQL
 
@@ -154,7 +154,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 3-1: _Funções mais usadas no SQL_
 - [x] 3-2: _Descomplicando JOINs_
 - [x] 3-3: _Transformando ideias em um modelo de banco de dados_
-- [x] 3-4: _[Projeto - One For All]()_
+- [x] 3-4: _[Projeto - One For All](https://github.com/AntonioSsantana/project-mysql-one-for-all)_
 
 ##### Seção 4: Introdução ao Desenvolvimento Web com Node.js
 
@@ -189,7 +189,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 8-1: _Introdução ao TypeScript_
 - [x] 8-2: _Tipagem Estática e Generics_
 - [x] 8-3: _Express com TypeScript_
-- [x] 8-4: _[Projeto - Trybesmith]()_
+- [x] 8-4: _[Projeto - Trybesmith](https://github.com/AntonioSsantana/project-trybesmith)_
 
 ##### Seção 9: Programação Orientada a Objetos e SOLID
 
