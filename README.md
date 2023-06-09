@@ -1,13 +1,13 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Antônio Santana](https://www.linkedin.com/in/ant%C3%B4nio-santana-gon%C3%A7alves-neto-98b093240/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Antônio Santana](https://www.linkedin.com/in/antoniosgn/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 > "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 > - O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web ✅
 
-##### Seção 1: Introdução - Unix & Shell ✅
+##### Seção 1: Introdução - Unix & Shell
 
 - [x] 1-3: _Unix & Shell- Part 1_
 - [x] 1-4: _Unix & Shell- Part 2_
@@ -69,7 +69,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [x] 8-5: _[Projeto - Zoo functions](https://github.com/AntonioSsantana/project-Zoo-functions)_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end ✅
 
 ##### Seção 1: Assincronicidade & Callbacks
 
@@ -132,7 +132,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [x] 10-1: _[Projeto - App de Receitas](https://github.com/tryber/sd-024-b-project-recipes-app/commits/main-group-22)_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end ✅
 
 ##### Seção 1: Docker - Utilizando Docker
 
@@ -213,49 +213,58 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [x] 11-5: _Updates complexos: Arrays_
 - [x] 11-6: _[Projeto - Commerce]()_
 
-##### Bloco 30: Introdução - Deploy
+##### Seção 12: APIs OO e NoSQL
 
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
+- [x] 12-1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
+- [x] 12-2: _Herança e Abstração_
+- [x] 12-3: _[Projeto - Car Shop]()_
 
-##### Bloco 31: Projeto
+##### Seção 13: Projeto
 
-- [ ] 31-1: _[Projeto - Trybeer]()_
+- [x] 12-1: _[Projeto - App de Delivery]()_
 
-##### Bloco 32: Arquitetura de Software
+## Ciência da Computação ✅
 
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
+##### Seção 1: Introdução à Python
 
-##### Bloco 33: Sockets
+- [x] 1-1: _Aprendendo Python_
+- [x] 1-2: _Entrada e saída de dados_
+- [x] 1-3: _Testes com pytest_
+- [x] 1-4: _[Projeto - Job Insights]()_
 
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
+##### Seção 2: Padrões de projeto
 
-##### Bloco 34: Projeto
+- [x] 2-1: _POO em Python_
+- [x] 2-2: _Iterator, Adapter, Strategy_
+- [x] 2-3: _Decorator, Observer, Factory_
+- [x] 2-4: _[Projeto - Relatório de estoque]()_
 
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+##### Seção 3: Raspagem de dados
 
-## Ciência da Computação :hourglass_flowing_sand:
+- [x] 3-1: _Raspagem de dados_
+- [x] 3-2: _Outras ferramentas de Raspagem de dados_
+- [x] 3-3: _Dia de atividades - Crawlers + POO_
+- [x] 3-4: _[Projeto - Tech news]()_
 
-##### Bloco 35: Introdução - Ciência da Computação
+##### Seção 4: Algoritmos
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+- [x] 4-1: _Comlpexidade de algoritmos_
+- [x] 4-2: _Recursividade e solução de problemas_
+- [x] 4-3: _Ordenação e Busca_
+- [x] 4-4: _[Projeto - Algorithms]()_
 
-##### Bloco 36: Python
+##### Seção 5: Estrutura de dados: Arrays, Listas, Filas e Pilhas
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+- [x] 5-1: _Arquitetura de computadores_
+- [x] 5-2: _Arquitetura de redes_
+- [x] 5-3: _Arrays_
+- [x] 5-4: _Nó e listas encadeadas_
+- [x] 5-5: _Pilhas e filas_
+- [x] 5-6: _[Projeto - TING]()_
 
-# [...]
+##### Seção 6: Estrutura de dados: Hashmaps e Sets
+
+- [ ] 6-1: _Hashmap e Dict_
+- [ ] 6-2: _Set_
+- [ ] 6-3: _Pandas_
+- [ ] 6-4: _[Projeto - Restaurant Orders]()_
