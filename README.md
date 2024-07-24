@@ -264,7 +264,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ##### Seção 6: Estrutura de dados: Hashmaps e Sets
 
-- [ ] 6-1: _Hashmap e Dict_
-- [ ] 6-2: _Set_
-- [ ] 6-3: _Pandas_
-- [ ] 6-4: _[Projeto - Restaurant Orders]()_
+- [x] 6-1: _Hashmap e Dict_
+- [x] 6-2: _Set_
+- [x] 6-3: _Pandas_
+- [x] 6-4: _[Projeto - Restaurant Orders]()_
